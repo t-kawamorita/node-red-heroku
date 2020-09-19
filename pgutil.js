@@ -1,6 +1,4 @@
 const pg = require('pg')
-const when = require('when')
-const util = require('util')
 
 let pool
 
