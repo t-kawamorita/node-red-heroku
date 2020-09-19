@@ -17,7 +17,6 @@
 
 var when = require('when')
 var pgutil = require('./pgutil')
-const e = require('express')
 
 var settings
 var appname
